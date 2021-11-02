@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"exceptions","l":"ChessCoards"},{"p":"exceptions","l":"Exceptions"}];updateSearchResults();
