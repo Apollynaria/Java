@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"musicalsystem","l":"Carrier"},{"p":"musicalsystem","l":"MusicalSystem"},{"p":"musicalsystem","l":"RecordingDevice"},{"p":"musicalsystem","l":"Songs"}];updateSearchResults();
