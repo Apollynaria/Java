@@ -32,7 +32,7 @@ public class Main {
         
         int sum = 0;
         
-        ExecutorService executor = Executors.newFixedThreadPool(INPUT_STRING.length()); //Пул из 16 потоков
+        ExecutorService executor = Executors.newFixedThreadPool(INPUT_STRING.length()); //Пул
         ArrayList<FutureTask> calls = new ArrayList<>(INPUT_STRING.length()); //Поступление в поток
         
         for (int i = 0; i < INPUT_STRING.length(); i++) {
