@@ -1,0 +1,128 @@
+[
+  {
+  	"idSeller": 201,
+	"idProduct": 101,
+	"price": 53,
+	"quantity": 52
+  },{
+  	"idSeller": 201,
+	"idProduct": 103,
+	"price": 62,
+	"quantity": 124
+  },{
+  	"idSeller": 201,
+	"idProduct": 105,
+	"price": 35,
+	"quantity": 24
+  },{
+  	"idSeller": 201,
+	"idProduct": 107,
+	"price": 25,
+	"quantity": 51
+  },{
+  	"idSeller": 201,
+	"idProduct": 109,
+	"price": 41,
+	"quantity": 7
+  },{
+  	"idSeller": 202,
+	"idProduct": 102,
+	"price": 54,
+	"quantity": 125
+  },{
+  	"idSeller": 202,
+	"idProduct": 104,
+	"price": 84,
+	"quantity": 4
+  },{
+  	"idSeller": 202,
+	"idProduct": 106,
+	"price": 21,
+	"quantity": 120
+  },{
+  	"idSeller": 202,
+	"idProduct": 108,
+	"price": 124,
+	"quantity": 162
+  },{
+  	"idSeller": 202,
+	"idProduct": 110,
+	"price": 55,
+	"quantity": 125
+  },{
+  	"idSeller": 203,
+	"idProduct": 101,
+	"price": 59,
+	"quantity": 122
+  },{
+  	"idSeller": 203,
+	"idProduct": 103,
+	"price": 64,
+	"quantity": 231
+  },{
+  	"idSeller": 203,
+	"idProduct": 105,
+	"price": 36,
+	"quantity": 233
+  },{
+  	"idSeller": 203,
+	"idProduct": 107,
+	"price": 61,
+	"quantity": 34
+  },{
+  	"idSeller": 203,
+	"idProduct": 109,
+	"price": 67,
+	"quantity": 85
+  },{
+  	"idSeller": 204,
+	"idProduct": 102,
+	"price": 48,
+	"quantity": 30
+  },{
+  	"idSeller": 204,
+	"idProduct": 104,
+	"price": 66,
+	"quantity": 100
+  },{
+  	"idSeller": 204,
+	"idProduct": 106,
+	"price": 58,
+	"quantity": 54
+  },{
+  	"idSeller": 204,
+	"idProduct": 108,
+	"price": 51,
+	"quantity": 23
+  },{
+  	"idSeller": 204,
+	"idProduct": 110,
+	"price": 83,
+	"quantity": 51
+  },{
+  	"idSeller": 205,
+	"idProduct": 101,
+	"price": 82,
+	"quantity": 23
+  },{
+  	"idSeller": 205,
+	"idProduct": 103,
+	"price": 73,
+	"quantity": 25
+  },{
+  	"idSeller": 205,
+	"idProduct": 105,
+	"price": 22,
+	"quantity": 123
+  },{
+  	"idSeller": 205,
+	"idProduct": 107,
+	"price": 42,
+	"quantity": 124
+  },{
+  	"idSeller": 205,
+	"idProduct": 109,
+	"price": 23,
+	"quantity": 24
+  }
+];
